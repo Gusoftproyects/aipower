@@ -549,6 +549,14 @@ footer i{
     z-index: 1000;
 
 }
+.headerprincipal a{
+    
+  padding: 10px;
+  color: black;   
+  text-decoration: none;
+  margin: 2px;
+  font-size: 20px;
+} 
 .headerprincipal img{
     width: 55px;
     
@@ -627,5 +635,10 @@ footer{
 }
 .botonesheader a{
   font-size: 13px;
+}
+.card {
+  p{
+    color: #202020;
+  }
 }
 }
