@@ -638,6 +638,7 @@ footer{
 }
 .card {
   p{
+    font-family: monospace !important;
     color: #272626 !important;
   }
 }
