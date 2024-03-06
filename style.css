@@ -621,8 +621,11 @@ footer{
   margin-left: 0px;
 
 }
+.botonesheader{
+  margin-left: 2px;
+
+}
 .botonesheader a{
-  margin: 1;
   font-size: 13px;
 }
 }
